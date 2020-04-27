@@ -1,0 +1,11 @@
+.list_header {
+    padding-bottom: 10px;
+}
+
+#bg {
+    background-image: url("img/bg.jpg");
+}
+
+.text_title {
+    margin-top: 3px;
+}
